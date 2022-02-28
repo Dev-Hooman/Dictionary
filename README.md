@@ -1,5 +1,5 @@
 
-## [`Dictionary_v1.0-Alpha`](https://github.com/Dev-Hooman/Dictionary/tree/v1.0) is Available for `Download` with new Features
+## [`Dictionary_v1.0-beta`](https://github.com/Dev-Hooman/Dictionary/tree/v1.0) is Available for `Download` with new Features
 
 ## Dictionary v0.2.0-alpha
 This is a simple offline Dictionary, a console based application, through which we can search English Words meaning, It will return exception if user try to search ambiguous word and return similar word related to it, It will ask user if user want the meaning of that word or not
